@@ -1,0 +1,22 @@
+{
+    "Book1": {
+        "Genre": "Education",
+        "Published": 1997,
+        "Edition": 2025
+    },
+    "Book2": {
+        "Genre": "Comic",
+        "Published": 2001,
+        "Edition": 2002
+    },
+    "Book3": {
+        "Genre": "Education",
+        "Published": 1992,
+        "Edition": 2020
+    },
+    "Book4": {
+        "Genre": "Mindset",
+        "Published": 2019,
+        "Edition": 2019
+    }
+}
