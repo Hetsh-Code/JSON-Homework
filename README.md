@@ -3,9 +3,6 @@
 
 # JSON - JavaScript Object Notation-Homework
 
-## Files
-```
-
 ## Homework:
 1. Men names in Wedding ( String )
 2. Favourite numbers list ( Number )
